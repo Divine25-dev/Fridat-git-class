@@ -1,1 +1,1 @@
-# Fridat-git-class
+# Friday-git-class
